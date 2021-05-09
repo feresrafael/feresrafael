@@ -9,6 +9,8 @@
 
 [linkedin]: https://linkedin.com/in/feresrafael
 
+<br />
+
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
