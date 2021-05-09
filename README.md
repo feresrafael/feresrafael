@@ -1,4 +1,4 @@
-### Hello, I'm Rafael and this is my Github [feresrafael]
+### Hello, I'm Rafael and this is my Github
 
 ## I'm current in the 8th Semester of Information Systems at UnilaSalle-RJ.
 
@@ -8,3 +8,10 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/feresrafael
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="feresrafael's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=feresrafael&show_icons=true&hide_border=true" />
+
+</details>
