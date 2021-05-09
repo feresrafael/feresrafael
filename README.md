@@ -18,4 +18,4 @@
 <!-- </details> -->
 
 [linkedin]: https://linkedin.com/in/feresrafael
-[email]: rafael.feres@soulasalle.com.br
+[email]: mailto:rafael.feres@soulasalle.com.br
