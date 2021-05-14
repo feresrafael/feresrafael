@@ -15,15 +15,14 @@
 
 <br />
 <!-- <details> -->
-<summary>:zap: Most Used Languages</summary>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=feresrafael&show_icons=true&locale=en&langs_count=8&theme=radical" alt="feresrafael" /></p>
+<summary align="left">:zap: Most Used Languages & GitHub Stats</summary>
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feresrafael&show_icons=true&locale=en&langs_count=8&theme=radical" alt="feresrafael" /></p>
 
-<summary>:zap: GitHub Stats</summary>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=feresrafael&show_icons=true&locale=en&theme=radical" alt="feresrafael" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feresrafael&show_icons=true&locale=en&theme=radical" alt="feresrafael" /></p>
 
 <!-- </details> -->
-
 
 
 
